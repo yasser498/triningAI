@@ -4,6 +4,7 @@ import { UserProvider } from "../components/UserProvider";
 import { ServiceWorker } from "../components/ServiceWorker";
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://trining-ai.vercel.app"),
   title: { default: "الذكاء الاصطناعي في القطاع غير الربحي", template: "%s | حقيبة أثر" },
   description: "حقيبة تدريبية تفاعلية عربية لتطبيق الذكاء الاصطناعي في المبادرات والمشاريع والبيانات وقياس الأثر.",
   manifest: "/manifest.webmanifest",
