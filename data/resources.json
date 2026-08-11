@@ -1,0 +1,5 @@
+[
+  {"id":"res-1","title":"قالب مراجعة مخرجات الذكاء الاصطناعي","category":"أداة عمل","description":"دقة، خصوصية، تحيز، مصادر، وملاءمة للسياق.","url":"/tools"},
+  {"id":"res-2","title":"قالب منطق المبادرة","category":"تخطيط","description":"من المشكلة إلى الأثر والمؤشرات.","url":"/project"},
+  {"id":"res-3","title":"دليل تعديل محتوى المنصة","category":"دليل","description":"مرجع بنية JSON وأنواع الشرائح.","url":"/docs/CONTENT_GUIDE.md"}
+]
